@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(173, 138, 96);
+    padding: 20px;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tudo-container{
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    max-width: 300px;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    padding: 0;
+}
+
+input{
+    padding: 10px;
+    margin: 10px 5px 10px 0;
+}
+
+li{
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.delete-button{
+    background-color: rgb(249, 8, 8);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.add-button{
+    background-color: aliceblue;
+    color: rgb(242, 0, 0);
+    padding: 10px;
+    border-radius: 5px;
+}
